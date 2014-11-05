@@ -12,6 +12,10 @@ a:visited {
   font-weight: 700;
 }
 
+.title-icons {
+  font-size: 2.5em;
+}
+
 .text-muted {
   color: #696969;
 }
