@@ -1,0 +1,31 @@
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+a,
+a:hover,
+a:visited {
+  color: #383846;
+}
+
+.title-large {
+  font-weight: 700;
+}
+
+.text-muted {
+  color: #696969;
+}
+
+.text-thin {
+  font-weight: 300;
+}
+
+/*
+  Taken from 'Make aligning text responsive'
+  https://github.com/twbs/bootstrap/issues/11292
+*/
+@media (max-width: 767px) {
+    .text-center-xs {
+        text-align: center;
+    }
+}
