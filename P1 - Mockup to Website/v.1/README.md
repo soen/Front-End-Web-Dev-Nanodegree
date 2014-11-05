@@ -17,3 +17,4 @@ References:
 - http://necolas.github.io/normalize.css/
 - https://github.com/twbs/bootstrap/issues/11292
 - http://www.flaticon.com/packs/material-design
+- http://fortawesome.github.io/Font-Awesome/
